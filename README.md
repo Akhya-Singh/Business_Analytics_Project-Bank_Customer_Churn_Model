@@ -4,7 +4,7 @@
 This repository focuses on predicting bank customer churn, a critical metric for banking institutions. By leveraging data analytics techniques, we aim to build a predictive model that identifies customers at risk of churning.
 
 ## Objective
-Developed a robust predictive model to accurately identify bank customers likely to churn, enabling proactive measures to retain valuable customers and enhance profitability.
+Developing a robust predictive model to accurately identify bank customers likely to churn, enabling proactive measures to retain valuable customers and enhance profitability.
 
 ## Key Features
 - **Data Exploration**: Understanding dataset characteristics and churn patterns.
