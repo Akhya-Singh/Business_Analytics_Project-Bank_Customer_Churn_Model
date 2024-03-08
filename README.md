@@ -1,2 +1,15 @@
-# Business_Analytics_Project-Bank_Customer_Churn_Model
-In this project, we focus on predicting customer churn within banking institutions. Through comprehensive exploration of machine learning algorithms, statistical techniques, and exploratory data analysis, our goal is to develop predictive models. By uncovering actionable insights, we aim to assist banks in addressing customer attrition proactively.
+# Business Analytics Project: Bank Customer Churn Model
+
+## Overview
+This repository focuses on predicting bank customer churn, a critical metric for banking institutions. By leveraging data analytics techniques, we aim to build a predictive model that identifies customers at risk of churning.
+
+## Objective
+Develop a robust predictive model to accurately identify bank customers likely to churn, enabling proactive measures to retain valuable customers and enhance profitability.
+
+## Key Features
+- **Data Exploration**: Understand dataset characteristics and churn patterns.
+- **Feature Engineering**: Identify and create relevant features for churn prediction.
+- **Model Development**: Utilize machine learning algorithms to build predictive models.
+- **Model Evaluation**: Rigorously assess model performance for reliability.
+- **Insights and Recommendations**: Extract actionable insights to mitigate churn risk.
+
