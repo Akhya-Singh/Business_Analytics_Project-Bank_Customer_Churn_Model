@@ -1,6 +1,6 @@
 # Business Analytics Project: Bank Customer Churn Model
 
-This repository contains a Jupyter Notebook that demonstrates the building of a customer churn prediction model for Akhya Bank using the Support Vector Machine (SVM) algorithm. The model aims to identify customers who are likely to leave the bank, allowing the bank to take proactive measures to retain them.
+This repository contains a Jupyter Notebook that demonstrates the building of a customer churn prediction model using the Support Vector Machine (SVM) algorithm. The model aims to identify customers who are likely to leave the bank, allowing the bank to take proactive measures to retain them.
 
 ## Overview
 This repository focuses on predicting bank customer churn, a critical metric for banking institutions. By leveraging data analytics techniques, we aim to build a predictive model that identifies customers at risk of churning.
